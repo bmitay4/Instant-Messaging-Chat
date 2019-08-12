@@ -4,7 +4,7 @@ This project was written as part of the Communication and Computing Course at Ar
 The project allows multi-participant chat, including the possibility of one-on-one private conversations.
 
 
-*Credit to [Drakirus](https://github.com/Drakirus) that I learned a lot from.
+*Credit to [Drakirus](https://github.com/Drakirus) that I learned a lot from*
 
 
 Built by [Itay](https://github.com/bmitay4)
