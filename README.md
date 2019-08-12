@@ -7,4 +7,6 @@ The project allows multi-participant chat, including the possibility of one-on-o
 *Credit to [Drakirus](https://github.com/Drakirus) that I learned a lot from*
 
 
+
 Built by [Itay](https://github.com/bmitay4)
+Summer 2018
