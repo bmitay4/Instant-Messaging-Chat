@@ -8,5 +8,4 @@ The project allows multi-participant chat, including the possibility of one-on-o
 
 
 
-Built by [Itay](https://github.com/bmitay4)
-Summer 2018
+### Built by [Itay](https://github.com/bmitay4), Summer 2018
